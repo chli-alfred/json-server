@@ -1,4 +1,13 @@
 {
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
   "transactions": [
     {
       "id": "e211b163-f8ce-4c53-bf23-0d73022e8d25",
@@ -27,14 +36,5 @@
       "uniqueOrderId": "10KM0003",
       "tradeDateTime": "2022-05-03 12:00:00"
     }
-  ],
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
