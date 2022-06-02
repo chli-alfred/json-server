@@ -3,7 +3,7 @@
     {
       "id": "e211b163-f8ce-4c53-bf23-0d73022e8d25",
       "productCode": "HK.00001",
-      "price": 25.3,
+      "price": 25,
       "quantity": 100,
       "side": "B",
       "uniqueOrderId": "10KM0001",
@@ -12,7 +12,7 @@
     {
       "id": "a8ed3072-7cfb-40ae-b33c-127c4a618d23",
       "productCode": "HK.00001",
-      "price": 28.5,
+      "price": 28,
       "quantity": 100,
       "side": "B",
       "uniqueOrderId": "10KM0002",
@@ -21,7 +21,7 @@
     {
       "id": "a73e608c-3216-482f-8ed9-190717ff2d75",
       "productCode": "HK.00001",
-      "price": 32.0,
+      "price": 32,
       "quantity": 200,
       "side": "S",
       "uniqueOrderId": "10KM0003",
